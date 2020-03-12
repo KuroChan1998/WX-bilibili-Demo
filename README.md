@@ -1,5 +1,15 @@
 # WX-bilibili-Demo
 
+微信小程序的一个demo，以bilibili的界面为例。微信小程序这些前端把主后端的我整哭了。下图为运行后的情况：
+
+![Snipaste_2020-03-12_18-22-42](git_screenshot/Snipaste_2020-03-12_18-22-42.jpg)
+
+
+
+###############################  分割线  ###################################
+
+以下为用户**iMisty**的readme原文内容==
+
 ## 久 等 了
 本Demo成品来自B站教程视频,如想看原视频,请移步:https://www.bilibili.com/video/av40455083/
 
@@ -20,8 +30,9 @@
 
 ### 如何引入到自己的项目中使用
 - 使用命令行,在命令行中输入以下命令将项目Clone至本机中,在微信开发者工具中导入项目即可
-  > git clone https://github.com/iMisty/WX-bilibili-Demo.git
-
+  
+> git clone https://github.com/iMisty/WX-bilibili-Demo.git
+  
 - 点击项目右上角的 Clone or download ,选择 Download ZIP ,将文件下载到本地中,解压缩后使用微信开发者工具导入
 
 ### 如何在自己的手机上测试
